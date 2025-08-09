@@ -1,4 +1,14 @@
 // Jum'at 8/8/25
+// Ini adalah comment dengan cara "//"
+
+// Di JS ada 3 variable yaitu
+// var,let,const
+// tetapi di jenjang industri kebanyakan menggunakan let dan const ketimbang var karena ketinggalan jaman
+// const adalah data konstanta yang tidak bisa di ubah
+// var dan let bisa diubah tapi ada beberapa studi kasus yang lebih di untungkan menggunakan let
+var acu = 0
+let amu = 0
+const ita = 0
 
 // Di JS ada 3 type data yaitu var let const
 // var adalah type data yang bisa diubah" isi datanya
