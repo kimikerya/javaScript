@@ -3,8 +3,8 @@
 // 1.Prompt untuk mengetahui saldo akhir dari apa yang diinputkan oleh user
 // 2.Menentukan hari dari tanggal yang ada saat ini di pc kalian
 
-// let inputSaldoCostumer = prompt("Tolong masukan saldo akhir camu");
-// alert(inputSaldoCostumer);
+let inputSaldoCostumer = prompt("Tolong masukan saldo akhir camu");
+alert(inputSaldoCostumer);
 
 let hari = new Date().getDay();
 switch (hari) {
