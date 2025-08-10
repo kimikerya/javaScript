@@ -20,6 +20,15 @@ switch (hari) {
   case 3:
     hari = "Rabu";
     break;
+  case 4:
+    hari = "Kamis";
+    break;
+  case 5:
+    hari = "Jum'at";
+    break;
+  case 6:
+    hari = "Sabtu";
+    break;
 }
 console.log(`Hari ini adalah ${hari}`);
 
