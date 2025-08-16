@@ -3,6 +3,7 @@
 // 1.Prompt untuk mengetahui saldo akhir dari apa yang diinputkan oleh user
 // 2.Menentukan hari dari tanggal yang ada saat ini di pc kalian
 
+// Tugas 1
 let inputSaldoCostumer = prompt("Tolong masukan saldo akhir camu");
 alert(inputSaldoCostumer);
 
@@ -32,7 +33,8 @@ switch (hari) {
 }
 console.log(`Hari ini adalah ${hari}`);
 
-// console.log(`Hari ini adalah hari ${hari}`)
+// Tugas 2
+console.log(`Hari ini adalah hari ${hari}`)
 
-// const namaHari = ["Minggu", "Senin", "Selasa"];
-// console.log(namaHari[0]);
+const namaHari = ["Minggu", "Senin", "Selasa"];
+console.log(namaHari[0]);
