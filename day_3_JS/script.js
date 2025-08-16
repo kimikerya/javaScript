@@ -1,4 +1,5 @@
 // Minggu 10/8/25
+
 // Array, for loop (for loop of array), do while / while loop
 
 let namaArray = ["Abidin, Raka, Sadiq"];
@@ -46,7 +47,8 @@ while (a < 10) {
   console.log("Ilham");
 }
 
-let h = 0;
-do {
-  console.log("Aziz")
-}while (h<10)
+// let h = 0;
+// do {
+//   a--
+//   console.log("Aziz")
+// }while (h<10)

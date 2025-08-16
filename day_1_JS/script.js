@@ -1,4 +1,5 @@
 // Jum'at 8/8/25
+
 // Ini adalah comment dengan cara "//"
 
 // Di JS ada 3 variable yaitu
