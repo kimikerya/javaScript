@@ -11,4 +11,4 @@ const iniBagianBody = document.body;
 // Ada banyak cara untuk memasukkan suatu kode untuk beberapa body seperti
 // append, textContent, innerText, innerHtml
 const menambahkanH1 = document.createElement('h1');
-menambahkanH1.textContent = 'gw di h1'
+menambahkanH1.textContent = 'gw di h1' 
