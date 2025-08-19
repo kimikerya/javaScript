@@ -12,7 +12,6 @@ btn1.style.fontSize = "24px";
 btn1.style.background = "tomato";
 
 // Tugas munculkan html berupa nama sendiri, bukan saat tombol di klik melainkan saat mouse berada di button dan terus ubah warna text si nama sendiri tersebut saat keluar
-let namaSaya = null;
 
 function mouseDiDalam() {
   namaSaya = document.createElement("p");
@@ -21,7 +20,5 @@ function mouseDiDalam() {
 }
 
 function mouseDiLuar() {
-  if (namaSaya) {
-    namaSaya.style.color = "aqua"; // ganti warna pas keluar
-  }
+  namaSaya.style.color = "aqua"; // ganti warna pas keluar
 }
